@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab6c72d3-fb1e-431a-bc8f-33f415564c7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1YeqM0uSMNMkUHhGCuLxWgsb9Fq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="deletionFromPopupRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\al-khatib\IdeaProjects\BankSystem\src" />
+      <recent name="C:\Users\al-khatib\IdeaProjects\BankSystem\src\Menu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Menu" />
+      <module name="BankSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Menu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\al-khatib\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab6c72d3-fb1e-431a-bc8f-33f415564c7c" name="Default Changelist" comment="" />
+      <created>1583313356782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583313356782</updated>
+      <workItem from="1583313363711" duration="1496000" />
+      <workItem from="1583315175271" duration="26570000" />
+    </task>
+    <task id="LOCAL-00001" summary="Refactoring rename ambiguous variable and remove not needed variable">
+      <created>1583351670582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583351670583</updated>
+    </task>
+    <task id="LOCAL-00002" summary="replace if with else if in user type check">
+      <created>1583353568261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583353568261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="put the new customer action in method">
+      <created>1583355757002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583355757002</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactor data duplicated code(properties of jframe)">
+      <created>1583357724891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583357724892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactor data duplicated code(set Customer data in previous and next in admin)">
+      <created>1583402166428</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583402166428</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor long method">
+      <created>1583405457141</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583405457141</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor long method">
+      <created>1583405685401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583405685401</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refoctor private access">
+      <created>1583424293163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583424293164</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refoctor if statment boolean condition">
+      <created>1583425868935</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583425868935</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refoctor removing empty if body">
+      <created>1583426668835</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1583426668835</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refoctor removing empty if body">
+      <created>1583428339964</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1583428339965</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactoring rename ambiguous variable and remove not needed variable" />
+    <MESSAGE value="replace if with else if in user type check" />
+    <MESSAGE value="put the new customer action in method" />
+    <MESSAGE value="refactor data duplicated code(properties of jframe)" />
+    <MESSAGE value="refactor data duplicated code(set Customer data in previous and next in admin)" />
+    <MESSAGE value="refactor long method" />
+    <MESSAGE value="refoctor private access" />
+    <MESSAGE value="refoctor if statment boolean condition" />
+    <MESSAGE value="refoctor removing empty if body" />
+    <option name="LAST_COMMIT_MESSAGE" value="refoctor removing empty if body" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583313892952">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583313892952" />
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583313422003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="255" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583313422003" />
+    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1583405682637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583405682637" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1583346385202">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583346385202" />
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1583406671106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583406671106" />
+    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1583406671106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583406671106" />
+    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1583406671106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583406671106" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1583406671106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583406671106" />
+    <state x="397" y="74" width="572" height="576" key="RefactorJ.ExtractClass" timestamp="1583402435241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="74" width="572" height="576" key="RefactorJ.ExtractClass/0.0.1366.728@0.0.1366.728" timestamp="1583402435241" />
+    <state width="242" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1583313913642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="242" height="198" key="RunAnythingAction_Filter_Popup/0.0.1366.728@0.0.1366.728" timestamp="1583313913642" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1583313707507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583313707507" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1583405688457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1583405688457" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1583315177334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583315177333" />
+    <state x="0" y="0" key="new project wizard" timestamp="1583313857464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583313857464" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1583313914293">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583313914293" />
+    <state x="513" y="158" key="svn.repositoryBrowser" timestamp="1583346420761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="158" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1583346420761" />
+    <state x="164" y="130" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1583346351680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="164" y="130" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1366.728@0.0.1366.728" timestamp="1583346351680" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Menu.java</url>
+          <line>1133</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
